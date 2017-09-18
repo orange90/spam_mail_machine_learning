@@ -1,0 +1,4 @@
+*.pyc
+easy_ham/
+hard_ham/
+spam_2/
